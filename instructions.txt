@@ -1,0 +1,63 @@
+download template from startboitstrap.com
+
+npm -init -y
+
+npm install express
+
+npm install nodemon --save-dev
+//only for development purpose 
+
+
+goto package.json and modify script
+
+"scripts": {
+    "start": "nodemon index.js"
+  }
+
+
+then goto cmd..
+
+npm run start
+
+npm install express-edge --save
+
+to install mongoose
+npm i --save mongoose
+
+browser send the data into the encoded format which we can't understand
+data-parser give us the data in a way in which we can understand 
+npm install body-parser
+
+
+package for file uploading
+npm install --save express-fileupload 
+
+
+Package for Encryption 
+npm i --save bcrypt
+
+
+package for session management
+npm i --save express-session
+
+
+package store session data in mongodb 
+npm i --save connect-mongo
+
+
+package for flash messaging (message for some time,
+Errors are only available for one request cycle)
+
+npm i --save connect-flash
+
+
+
+npm i --save edge.js
+
+
+cloudanry installation for database backup
+npm i --save cloudinary --save
+
+
+enviroment Variable
+-npm i dotenv
