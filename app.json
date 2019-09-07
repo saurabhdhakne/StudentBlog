@@ -1,0 +1,9 @@
+{
+    "name":"JNEC Student Blog Made in Node.js",
+    "description": "A Node.js App using Express.js and Mongodb database with Clodnary Cloud for Backup",
+    "repository":"https://github.com/saurabhdhakne/StudentBlog",
+    "logo": "img/logo.png",
+    "Keywords": ["Node","Express","Student","Blog","JNEC","Aurangabad","MGM","Saurabh","SRB","Dhakne","sbdhakne"],
+    "image":"heroku"
+
+}
